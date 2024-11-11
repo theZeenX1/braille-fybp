@@ -1,0 +1,9 @@
+archive/
+data/
+data-yolo/
+yolo-data/
+runs/
+yolov5/
+.conda/
+
+*.pt
