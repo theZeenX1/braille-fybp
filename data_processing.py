@@ -4,9 +4,9 @@ import shutil
 import numpy as np
 
 RAW_DIR = './raw'
-DATA_DIR = './data'            # Directory for 521X512 images with OBB labels
-DATA_YOLO_DIR = './data-yolo'  # Directory for 521X512 images with YOLO labels
-CHUNK_SIZE = 512
+DATA_DIR = './data'            # Directory for CHUNK_SIZE X CHUNK_SIZE images with OBB labels
+DATA_YOLO_DIR = './data-yolo'  # Directory for CHUNK_SIZE X CHUNK_SIZE images with YOLO labels
+CHUNK_SIZE = 256
 
 def obb_to_yolo(class_name, points):
     x_coords = points[0::2]
