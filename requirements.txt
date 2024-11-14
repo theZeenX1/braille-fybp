@@ -15,7 +15,6 @@ eval_type_backport==0.2.0
 exceptiongroup==1.2.2
 executing==2.1.0
 fastrlock==0.8.2
-filelock==3.13.1
 fonttools==4.51.0
 fsspec==2024.10.0
 gitdb==4.0.11
@@ -24,8 +23,6 @@ idna==3.7
 imagecodecs==2023.1.23
 imageio==2.33.1
 importlib_metadata==8.5.0
-ipykernel==6.29.5
-ipython==8.29.0
 ipywidgets==8.1.5
 jedi==0.19.1
 Jinja2==3.1.4
@@ -57,7 +54,6 @@ pillow==10.4.0
 pip==24.2
 platformdirs==4.3.6
 ply==3.11
-prompt_toolkit==3.0.48
 psutil==5.9.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -92,7 +88,6 @@ tomli==2.0.1
 torch==2.5.1
 torchaudio==2.5.1
 torchvision==0.20.1
-tornado==6.4.1
 tqdm==4.67.0
 traitlets==5.14.3
 triton==3.1.0
