@@ -6,6 +6,7 @@ runs/
 yolov5/
 .conda/
 
+!output/yolov5/
 # output/
 *.yaml
 model-*.ipynb
