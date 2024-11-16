@@ -6,5 +6,9 @@ runs/
 yolov5/
 .conda/
 
+# output/
+*.yaml
+model-*.ipynb
+
 *.pt
 revised*
