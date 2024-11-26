@@ -11,5 +11,5 @@ yolov5/
 *.yaml
 model-*.ipynb
 
-*.pt
+*.pt*
 revised*
